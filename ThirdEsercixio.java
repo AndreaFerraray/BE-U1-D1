@@ -6,7 +6,7 @@ public class ThirdEsercixio {
         System.out.println("il perimetro è" + perimetro);
 
 
-        short parieDispari= 
+
 
     }
 
