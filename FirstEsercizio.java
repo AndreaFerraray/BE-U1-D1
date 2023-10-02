@@ -14,7 +14,7 @@ public class FirstEsercizio {
         System.out.println(parola1 + parola2);
 
 
-      
+
     }}
 
 
