@@ -1,11 +1,14 @@
-
-public class Concatena{
+public class FirstEsercizio {
     public static void main(String[] args) {
-        int num3=199;
-                String primo= "ciao";
-        System.out.println( primo + num3);
+        int num1 = 12;
+        int num2 = 3;
 
-    };}
+        int risultato = num1 * num2;
+        System.out.println(" il riusultato è " + risultato);
+    }}
+
+
+
 
 
 
