@@ -1,5 +1,5 @@
 public class FirstEsercizio {
-    public static void main(String[] args) {
+    public static int main(String[] args) {
         int num1 = 12;
         int num2 = 3;
 
